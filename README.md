@@ -1,6 +1,6 @@
 # Preview:
 
-![image](https://github.com/user-attachments/assets/f34b5972-33b8-4f8e-813f-9ed9d3db2edf)
+<img width="908" height="501" alt="image" src="https://github.com/user-attachments/assets/40c7dc4d-d7f8-4b0b-9d78-903fd6f10107" />
 
 
 # Tango! 
