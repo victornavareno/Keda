@@ -16,7 +16,7 @@ Support Local: Participate in experiences organized by businesses looking to fil
 - Connect with People: Join events and connect with others who share your passions.
 - Support Local Businesses: Enjoy unique experiences while helping local businesses thrive.
 
-<img width="1482" height="768" alt="image" src="https://github.com/user-attachments/assets/5bec15e2-203f-49d6-9bc0-80728b234964" />
+<img width="1476" height="715" alt="image" src="https://github.com/user-attachments/assets/f7201893-2ae3-4dda-86ce-4d61455c47d7" />
 
 ##  About the App
 The frontend is built with a modern user interface using **React + Vite, with Tailwind CSS**.
