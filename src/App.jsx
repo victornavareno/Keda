@@ -6,6 +6,9 @@ import LoginPage from "./pages/LoginPage";
 import EventsExplorer from "./pages/EventsExplorer";
 import HostDashboard from "./pages/HostDashboard";
 import HeroKeda from "./pages/HeroKeda.jsx";
+import CreateEventPage from "./pages/CreateEventPage.jsx";
+import SubscriberDashboard from "./pages/SubscriberDashboard.jsx";
+import TierSelector from "./pages/TierSelector.jsx";
 
 function App() {
   return (
@@ -18,6 +21,9 @@ function App() {
         <Route path="/login" element={<LoginPage />} />
           <Route path="/hostDashboard" element={<HostDashboard />} />
           <Route path="/event/:id" element={<EventDetail />} />
+          <Route path="/subscriberDashboard" element={<SubscriberDashboard />} />
+          <Route path="/crearEvento" element={<CreateEventPage />} />
+          <Route path="/tier-selector" element={<TierSelector />} />
 
       </Routes>
     </Router>
