@@ -1,15 +1,17 @@
 # Preview:
 
-<img width="759" height="355" alt="image" src="https://github.com/user-attachments/assets/21da412d-d7bc-4fab-b53b-9b60feeb0113" />
+<img width="1162" height="530" alt="image" src="https://github.com/user-attachments/assets/e9cfd587-0ccd-4d9d-95ef-1c531621b1aa" />
 
 
 # Keda! 
 ## A web app designed to help people connect
 
 ## Key Features
-**Find Friends: Discover and connect with like-minded people in your city.**
-Join Events: Explore unique events hosted by local businesses and join in on the fun.
-Support Local: Participate in experiences organized by businesses looking to fill their quieter times, like a cozy Tuesday evening.
+**Find Friends:** Discover and connect with like-minded people in your city.
+
+**Join Events:** Explore unique events hosted by local businesses and join in on the fun.
+
+**Support Local:** Participate in experiences organized by businesses looking to fill their quieter times, like a cozy Tuesday evening.
 
 ## How It Works
 **Browse Local Events: View a curated list of activities happening near you, all tailored to your interests.**
