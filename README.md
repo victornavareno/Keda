@@ -3,7 +3,7 @@
 <img width="908" height="501" alt="image" src="https://github.com/user-attachments/assets/40c7dc4d-d7f8-4b0b-9d78-903fd6f10107" />
 
 
-# Tango! 
+# Keda! 
 ## A web app designed to help people connect
 
 ## Key Features
