@@ -1,6 +1,6 @@
 # Preview:
 
-<img width="908" height="501" alt="image" src="https://github.com/user-attachments/assets/40c7dc4d-d7f8-4b0b-9d78-903fd6f10107" />
+<img width="759" height="355" alt="image" src="https://github.com/user-attachments/assets/21da412d-d7bc-4fab-b53b-9b60feeb0113" />
 
 
 # Keda! 
