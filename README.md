@@ -5,7 +5,10 @@
 ### A web app designed to help people connect in real life by facilitating genuine, face-to-face connections.
 
 
-## Key Features
+---
+
+
+### Key Features
 **1. Browse Local Events: View a list of activities happening near you**
 
 **2. Connect with People: Join events hosted by local venues and connect with others who share your interests.**
