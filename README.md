@@ -1,4 +1,4 @@
-<img width="1237" height="457" alt="image" src="https://github.com/user-attachments/assets/85cfdb53-73ea-432f-a08d-1a85b4a361c0" />
+<img width="1252" height="423" alt="image" src="https://github.com/user-attachments/assets/fe6e00ec-902e-4a71-a969-9bc187cfc4b6" />
 
 
 ## Keda!
