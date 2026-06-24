@@ -7,6 +7,7 @@
 
 ---
 
+<img width="1214" height="470" alt="image" src="https://github.com/user-attachments/assets/aafafc5a-cced-415b-a03e-5516e8b2ace2" />
 
 ### Key Features
 **1. Browse Local Events: View a list of activities happening near you**
