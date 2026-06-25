@@ -1,6 +1,6 @@
 <img width="1252" height="423" alt="Keda by Victor Navareño" src="https://github.com/user-attachments/assets/fe6e00ec-902e-4a71-a969-9bc187cfc4b6" />
 
-### A web app designed to help people connect in real life by facilitating genuine, face-to-face connections.
+### A web App designed to help people connect by facilitating genuine, face-to-face connections
 
 <br>
 <br>
