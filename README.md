@@ -13,7 +13,7 @@
 
 **2. Connect with People and support Local: Join events hosted by local venues and connect with others who share your interests.**
 
-**3. Turn off the phone and enjoy making genuine connections!**
+**3. Win prizes by assisting to those events and enjoy socializing in real life!**
 
 <br>
 
