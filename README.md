@@ -2,15 +2,20 @@
 
 ### A web app designed to help people connect in real life by facilitating genuine, face-to-face connections.
 
+<br>
+<br>
+
 
 
 ## Key Features
 
-**1. Browse Social Events: View a list of activities happening near you**
+**1. Browse Social Events: View a list of activities happening near you.**
 
 **2. Connect with People and support Local: Join events hosted by local venues and connect with others who share your interests.**
 
 **3. Turn off the phone and enjoy making genuine connections!**
+
+<br>
 
 <img width="1052" height="413" alt="image" src="https://github.com/user-attachments/assets/2cf1a05e-43ce-4846-8052-3e8ae43428e1" />
 
@@ -21,4 +26,4 @@
 <img width="900" height="400" alt="Keda! Software Architecture by Victor Navareño" src="https://github.com/user-attachments/assets/587a2dbd-bfbd-4105-8b12-0a16e785800a" />
 
 
-### Author: Victor Navareño
+### Victor Navareño
